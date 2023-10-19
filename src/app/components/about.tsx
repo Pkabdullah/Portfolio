@@ -24,7 +24,7 @@ const About=() => {
       Welcome to my corner of the web! I m Abdullah, and I m delighted to share a bit about myself with you. I believe that life is a journey of self-discovery, and I m on a quest to explore, learn, and grow. This website is a window into my world, a place where I can express my passions, experiences, and the things that make me who I am.<br/>
 
       One of my greatest passions is technology. As a lifelong enthusiast, I ve been captivated by the ever-evolving world of gadgets, software, and innovations. I m also an advocate for sustainability and am committed to finding ways to make our world a better place for future generations.<br/>
-      Thank you for visiting, and I look forward to sharing more with you on this website. If you have any questions, comments, or ideas to share, don't hesitate to reach out. Together, we can make this digital space a place of inspiration and knowledge.<br/>
+      Thank you for visiting, and I look forward to sharing more with you on this website. If you have any questions, comments, or ideas to share, don t hesitate to reach out. Together, we can make this digital space a place of inspiration and knowledge.<br/>
 
       </p>
       <div className="flex justify-center">
