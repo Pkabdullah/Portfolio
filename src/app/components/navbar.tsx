@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { FiDownload } from 'react-icons/Fi';
+import { FiDownload } from 'react-icons/fi';
 
 const Navbar = () => {
     return (
