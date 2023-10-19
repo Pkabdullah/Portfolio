@@ -22,7 +22,7 @@ const Hero = () => {
                     </h1>
                     <div className="w-[250px] h-[2px] bg-blue-700"></div>
                     <p className="mb-8 leading-relaxed">
-                        "Welcome to Abdullah's Programming World! Dive into a realm of code, creativity, and innovation with a passionate programmer. Explore the digital landscape through the eyes of me and unlock the secrets of web design and more."
+                        Welcome to Abdullah s Programming World! Dive into a realm of code, creativity, and innovation with a passionate programmer. Explore the digital landscape through the eyes of me and unlock the secrets of web design and more.
                     </p>
                     <div className="flex justify-center">
                         <Link href= {"#contact"}>
